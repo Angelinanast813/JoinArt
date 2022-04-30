@@ -1,2 +1,2 @@
 # JoinArt
-Repository for my Art Gallery web application "JoinArt"
+Information system for artists "JoinArt"
